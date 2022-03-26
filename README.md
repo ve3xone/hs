@@ -11,3 +11,5 @@ ncd.exe - [NirCmd](https://www.nirsoft.net/utils/nircmd.html)
 sc.exe - [Service Control](https://ss64.com/nt/sc.html)
 
 rem.exe - old version anydesk
+
+WinRing0x64.sys - driver
