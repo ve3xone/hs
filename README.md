@@ -1,4 +1,3 @@
-#hs 
 pse2.exe - [PsExec](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec)
 
 hs.cmd - [HASHSUM](https://www.dostips.com/forum/viewtopic.php?t=7592)
